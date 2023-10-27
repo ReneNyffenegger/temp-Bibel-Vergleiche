@@ -1,1 +1,0 @@
-# temp-Bibel-Vergleiche
