@@ -21,3 +21,6 @@ Jews
   The word Jew occurs way more in John than in the other gospels
     - Fest der Juden
     - Furcht vor den Juden
+
+There is only one story which is found both in Luke and John (butin Matthew or Mark):
+  Peter and John running to the empty tomb (Lk. 24:9-12 and Jn. 20:2-10).
