@@ -32,5 +32,12 @@ Jews
     - Fest der Juden
     - Furcht vor den Juden
 
-There is only one story which is found both in Luke and John (butin Matthew or Mark):
+--------------------------------------------------------
+
+There is only one story which is found both in Luke and John (but not in Matthew or Mark):
   Peter and John running to the empty tomb (Lk. 24:9-12 and Jn. 20:2-10).
+
+--------------------------------------------------------
+
+Only in MT
+  mt-28-13: Saying, Say ye, His disciples came by night, and stole him away while we slept.
