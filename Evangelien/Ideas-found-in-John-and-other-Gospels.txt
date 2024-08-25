@@ -45,3 +45,27 @@ There is only one story which is found both in Luke and John (but not in Matthew
 
 Only in MT
   mt-28-13: Saying, Say ye, His disciples came by night, and stole him away while we slept.
+
+
+joh-16-32
+  Behold, the hour cometh, yea, is now come, that ye shall be
+  scattered, every man to his own, and shall leave me alone: and yet I am not
+  alone, because the Father is with me.
+  ------------------------------------
+  -> mt-26-56
+  -> mk-14-50
+
+joh-16-25
+  These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.
+  
+joh-17-24
+  Father, I will that they also, whom thou hast given me, be with me where I am;
+
+  -> mt-28-20: I am with you all the days -- till the full end of the age.'
+
+joh-2-19
+   Destroy this temple, and in three days I will raise it up.
+   -> mt-26-61: This fellow said, I am able to destroy the temple of God, and to build it in three days.
+   -> mk-14-58: I will destroy this temple that is made with hands, and within three days I will build another made without hands.
+   -> mt-27-40: Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross.
+
